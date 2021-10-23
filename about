@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My blog</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+      </head>
+  <body>
+    <div id="header">
+    <div class="container">
+<a href="index.html">My blog</a>
+<ul>
+  <li><a href="about.html">About</a></li>
+  <li><a href="mailto:elenetsotsonava@yahoo.com">Contact</a></li>
+</ul>
+    </div>
+  </div>
+    <div id="content">
+      <div class="container">
+<div class="about">
+  <div class="about-author">
+    <img src="file:///C:/Users/elene/Desktop/blog/me.jpg">
+  </div>
+
+  <h1 class="about-title">About Me</h1>
+  <div class="about-content">
+    <p>Hello! My name is Elene and I am 15 years old. I'm a chess player and
+    beginner web developer. </p>
+    <p>If you like my blog, please follow me on Facebook or Instagram
+and tell your family and friends about it. If you want to get in touch,
+please click on the <strong>contact</strong> link in the navigation bar. </p>
+</div> 
+</div>
+    </div>
+  </div>
+    <div id="footer">
+      <div class="container">
+<div class="column">
+  <h4>My Links</h4>
+  <p>
+    <a href="https://instagram.com/tsotsonava_elene">Instagram</a>
+    <br>
+    <a href="https://facebook.com/Elene Tsotsonava">Facebook</a>
+  </p>
+</div>
+<div class="column">
+  <h4>My Story</h4>
+  <p>Hi there! I'm an aspiring chess player.</p>
+</div>
+    </div>
+  </div>
+      </body>
+</html>
